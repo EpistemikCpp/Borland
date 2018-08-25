@@ -1,0 +1,1 @@
+// FILE: instances.cpp// NAME:  Mark Sattolo// STUDENT #:  428500// SECTION:  CSI 2172A// MARKING SECTION:  A4// NEED ALL THESE #include's FOR THE PROJECT TO COMPILE!!#include "heap.h"#include "heap.cpp"#include "aheap.h"#include "aheap.cpp"#include "test.h"//instantiate an array_heap with test_classtemplate class array_heap<test_class> ;
